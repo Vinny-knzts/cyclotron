@@ -42,5 +42,3 @@ function cyclotron(particle=null, matrix) {
 
     return cyclotron;
 }
-
-console.log(cyclotron('p', '6x6'));
